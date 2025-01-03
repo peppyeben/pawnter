@@ -1,0 +1,1187 @@
+[
+  [
+    "ALA",
+    "Alaves",
+    "Deportivo Alavés"
+  ],
+  [
+    "ATH",
+    "Athletic Bilbao",
+    "Ath Bilbao"
+  ],
+  [
+    "ATM",
+    "Atletico Madrid",
+    "Ath Madrid"
+  ],
+  [
+    "FCB",
+    "Barcelona",
+    "FC Barcelona"
+  ],
+  [
+    "VIG",
+    "Celta Vigo",
+    "Celta de Vigo"
+  ],
+  [
+    "",
+    "Espanyol",
+    "Espanol, RCDE, RCD Espanyol"
+  ],
+  [
+    "GET",
+    "Getafe",
+    "Getafe, Getafe Club de Fútbol"
+  ],
+  [
+    "GIR",
+    "Girona",
+    "Girona"
+  ],
+  [
+    "PAL",
+    "Las Palmas",
+    "Las Palmas"
+  ],
+  [
+    "",
+    "Leganes",
+    "Club Deportivo Leganés, CD Leganés"
+  ],
+  [
+    "MLA",
+    "Mallorca",
+    "Real Mallorca"
+  ],
+  [
+    "OSA",
+    "Osasuna",
+    "Osasuna, Club Atlético Osasuna, CA Osasuna"
+  ],
+  [
+    "BET",
+    "Real Betis",
+    "Betis"
+  ],
+  [
+    "MAD",
+    "Real Madrid",
+    "Real Madrid"
+  ],
+  [
+    "SOC",
+    "Real Sociedad",
+    "Sociedad"
+  ],
+  [
+    "SEV",
+    "Sevilla",
+    "Sevilla Fútbol Club, SFC"
+  ],
+  [
+    "VAL",
+    "Valencia",
+    "Valencia"
+  ],
+  [
+    "",
+    "Valladolid",
+    "Real Valladolid"
+  ],
+  [
+    "RAY",
+    "Vallecano",
+    "Rayo Vallecano de Madrid"
+  ],
+  [
+    "VLR",
+    "Villarreal",
+    "Villareal, Villarreal Club de Fútbol, Villarreal CF, Vila-real, VCF"
+  ],
+  [
+    "",
+    "Albacete",
+    "Albacete"
+  ],
+  [
+    "ALM",
+    "Almeria",
+    "Almería"
+  ],
+  [
+    "",
+    "Burgos",
+    "Burgos CF, Burgos Club de Fútbol"
+  ],
+  [
+    "CAD",
+    "Cadiz",
+    "Cádiz Club de Fútbol, Cádiz CF"
+  ],
+  [
+    "",
+    "Cartagena FC",
+    "Fútbol Club Cartagena, FC Cartagena"
+  ],
+  [
+    "",
+    "Castellón",
+    "CD Castellón"
+  ],
+  [
+    "",
+    "Cordoba",
+    "Córdoba"
+  ],
+  [
+    "",
+    "Eibar",
+    "Sociedad Deportiva Eibar, SD Eibar"
+  ],
+  [
+    "",
+    "Elche",
+    "Elche"
+  ],
+  [
+    "",
+    "Eldense",
+    "Eldense"
+  ],
+  [
+    "GRN",
+    "Granada",
+    "Granada CF"
+  ],
+  [
+    "",
+    "Huesca",
+    "SD Huesca, Sociedad Deportiva Huesca"
+  ],
+  [
+    "",
+    "La Coruna",
+    "Deportivo de La Coruña"
+  ],
+  [
+    "",
+    "Levante",
+    "Levante"
+  ],
+  [
+    "",
+    "Malaga",
+    "Málaga"
+  ],
+  [
+    "",
+    "Mirandes",
+    "Mirandés"
+  ],
+  [
+    "",
+    "Racing Club de Ferrol",
+    "Racing de Ferrol"
+  ],
+  [
+    "",
+    "Real Oviedo",
+    "Real Oviedo Club de Fútbol, Oviedo"
+  ],
+  [
+    "",
+    "Santander",
+    "Racing de Santander"
+  ],
+  [
+    "",
+    "Sp Gijon",
+    "Sporting de Gijón, Sporting Gijon"
+  ],
+  [
+    "",
+    "Tenerife",
+    "Tenerife"
+  ],
+  [
+    "",
+    "Zaragoza",
+    "Real Zaragoza"
+  ],
+  [
+    "",
+    "AD Ceuta FC",
+    "AD Ceuta"
+  ],
+  [
+    "",
+    "Águilas",
+    ""
+  ],
+  [
+    "ALA",
+    "Alaves",
+    "Deportivo Alavés"
+  ],
+  [
+    "",
+    "Albacete",
+    "Albacete"
+  ],
+  [
+    "",
+    "Alcorcon",
+    "Alcorcón"
+  ],
+  [
+    "",
+    "Alfaro",
+    "Club Deportivo Alfaro, CD Alfaro"
+  ],
+  [
+    "ALM",
+    "Almeria",
+    "Almería"
+  ],
+  [
+    "",
+    "Astur",
+    "Astur CF"
+  ],
+  [
+    "ATH",
+    "Athletic Bilbao",
+    "Ath Bilbao"
+  ],
+  [
+    "ATM",
+    "Atletico Madrid",
+    "Ath Madrid"
+  ],
+  [
+    "",
+    "Atlético Paso",
+    "Club Deportivo Atlético Paso, CD Atlético Paso"
+  ],
+  [
+    "",
+    "Aurrerá de Vitoria",
+    "CD Aurrerá de Vitoria"
+  ],
+  [
+    "",
+    "Barakaldo",
+    ""
+  ],
+  [
+    "",
+    "Barbastro",
+    "UD Barbastro, Unión Deportiva Barbastro"
+  ],
+  [
+    "FCB",
+    "Barcelona",
+    "FC Barcelona"
+  ],
+  [
+    "",
+    "Baztán",
+    "CD Baztán KE"
+  ],
+  [
+    "",
+    "Beasain",
+    "Beasain Kirol Elkartea, Beasain KE, Sociedad Deportiva Beasain, SD Beasain"
+  ],
+  [
+    "",
+    "Bergantiños",
+    ""
+  ],
+  [
+    "",
+    "Burgos",
+    "Burgos CF, Burgos Club de Fútbol"
+  ],
+  [
+    "",
+    "Cacereño",
+    ""
+  ],
+  [
+    "CAD",
+    "Cadiz",
+    "Cádiz Club de Fútbol, Cádiz CF"
+  ],
+  [
+    "",
+    "Cartagena FC",
+    "Fútbol Club Cartagena, FC Cartagena"
+  ],
+  [
+    "",
+    "Castellón",
+    "CD Castellón"
+  ],
+  [
+    "",
+    "CD Coria",
+    ""
+  ],
+  [
+    "",
+    "CD Ibiza Islas Pitiusas",
+    ""
+  ],
+  [
+    "",
+    "CD Móstoles URJC",
+    ""
+  ],
+  [
+    "",
+    "CE Europa",
+    ""
+  ],
+  [
+    "VIG",
+    "Celta Vigo",
+    "Celta de Vigo"
+  ],
+  [
+    "",
+    "Ceuta 6 de Junio",
+    ""
+  ],
+  [
+    "",
+    "CF Badalona",
+    "Club de Fútbol Badalona Futur"
+  ],
+  [
+    "",
+    "Chiclana",
+    "Chiclana CF"
+  ],
+  [
+    "",
+    "Ciudad de Lucena",
+    "Club Deportivo Ciudad de Lucena"
+  ],
+  [
+    "",
+    "Compostela",
+    ""
+  ],
+  [
+    "",
+    "Conquense",
+    ""
+  ],
+  [
+    "",
+    "Cordoba",
+    "Córdoba"
+  ],
+  [
+    "",
+    "Cortes",
+    ""
+  ],
+  [
+    "",
+    "Cuarte",
+    "CD Cuarte"
+  ],
+  [
+    "",
+    "Deportiva Minera",
+    "CD Minera"
+  ],
+  [
+    "",
+    "Dolorense",
+    "EF Dolorense"
+  ],
+  [
+    "",
+    "Don Benito",
+    "CD Don Benito, Club Deportivo Don Benito"
+  ],
+  [
+    "",
+    "Eibar",
+    "Sociedad Deportiva Eibar, SD Eibar"
+  ],
+  [
+    "",
+    "Elche",
+    "Elche"
+  ],
+  [
+    "",
+    "Eldense",
+    "Eldense"
+  ],
+  [
+    "",
+    "Escobedo",
+    "UM Escobedo, Unión Montañesa Escobedo"
+  ],
+  [
+    "",
+    "Espanyol",
+    "Espanol, RCDE, RCD Espanyol"
+  ],
+  [
+    "",
+    "Estepona",
+    ""
+  ],
+  [
+    "",
+    "FC Andorra",
+    "Andorra"
+  ],
+  [
+    "GET",
+    "Getafe",
+    "Getafe, Getafe Club de Fútbol"
+  ],
+  [
+    "",
+    "Gévora",
+    "CD Gévora"
+  ],
+  [
+    "",
+    "Gimnastic",
+    "Nastic de Tarragona"
+  ],
+  [
+    "ATH",
+    "Athletic Bilbao",
+    "Ath Bilbao"
+  ],
+  [
+    "FCB",
+    "Barcelona",
+    "FC Barcelona"
+  ],
+  [
+    "MLA",
+    "Mallorca",
+    "Real Mallorca"
+  ],
+  [
+    "MAD",
+    "Real Madrid",
+    "Real Madrid"
+  ],
+  [
+    "",
+    "Arenteiro",
+    ""
+  ],
+  [
+    "",
+    "Athletic Bilbao B",
+    "Bilbao Athletic"
+  ],
+  [
+    "",
+    "Barakaldo",
+    ""
+  ],
+  [
+    "",
+    "Barcelona Atlètic",
+    "Barcelona B"
+  ],
+  [
+    "",
+    "Celta Fortuna",
+    "Celta Vigo B"
+  ],
+  [
+    "",
+    "Fuenlabrada",
+    "CF Fuenlabrada"
+  ],
+  [
+    "",
+    "Gimnastic",
+    "Nastic de Tarragona"
+  ],
+  [
+    "",
+    "Gimnástica Segoviana CF",
+    ""
+  ],
+  [
+    "",
+    "Leonesa",
+    "Cultural Leonesa"
+  ],
+  [
+    "",
+    "Lugo",
+    "Deportivo Lugo"
+  ],
+  [
+    "",
+    "Osasuna B",
+    "Osasuna B"
+  ],
+  [
+    "",
+    "Ourense",
+    ""
+  ],
+  [
+    "",
+    "Ponferradina",
+    "Sociedad Deportiva Ponferradina, SD Ponferradina"
+  ],
+  [
+    "",
+    "Real Sociedad B",
+    "Real Sociedad B"
+  ],
+  [
+    "",
+    "Real Unión",
+    "Real Unión de Irún"
+  ],
+  [
+    "",
+    "Sestao",
+    "Sestao River"
+  ],
+  [
+    "",
+    "Tarazona",
+    "SD Tarazona"
+  ],
+  [
+    "",
+    "Unionistas de Salamanca",
+    "Unionistas CF"
+  ],
+  [
+    "",
+    "Villarreal B",
+    "Villarreal B"
+  ],
+  [
+    "",
+    "Zamora",
+    "Zamora CF"
+  ],
+  [
+    "",
+    "Bergantiños",
+    ""
+  ],
+  [
+    "",
+    "Compostela",
+    ""
+  ],
+  [
+    "",
+    "Coruxo",
+    ""
+  ],
+  [
+    "",
+    "Deportivo Fabril",
+    "Deportivo B, Deportivo La Coruña II, Deportivo La Coruña B"
+  ],
+  [
+    "",
+    "Escobedo",
+    "UM Escobedo, Unión Montañesa Escobedo"
+  ],
+  [
+    "",
+    "Gimnástica de Torrelavega",
+    ""
+  ],
+  [
+    "",
+    "Guijuelo",
+    "CD Guijuelo, Club Deportivo Guijuelo"
+  ],
+  [
+    "",
+    "Langreo",
+    "UP Langreo, Unión Popular de Langreo"
+  ],
+  [
+    "",
+    "Laredo",
+    ""
+  ],
+  [
+    "",
+    "Marino de Luanco",
+    "Marino"
+  ],
+  [
+    "",
+    "Numancia",
+    "Numancia"
+  ],
+  [
+    "",
+    "Pontevedra",
+    "Pontevedra CF"
+  ],
+  [
+    "",
+    "Rayo Cantabria",
+    ""
+  ],
+  [
+    "",
+    "Real Ávila",
+    ""
+  ],
+  [
+    "",
+    "Real Avilés",
+    "Real Avilés Industrial"
+  ],
+  [
+    "",
+    "Salamanca UDS",
+    "Salamanca Club de Fútbol UDS, Salamanca CF UDS"
+  ],
+  [
+    "",
+    "UD Llanera",
+    ""
+  ],
+  [
+    "",
+    "Valladolid Promesas",
+    "Real Valladolid Promesas"
+  ],
+  [
+    "",
+    "AD Ceuta FC",
+    "AD Ceuta"
+  ],
+  [
+    "",
+    "Alcorcon",
+    "Alcorcón"
+  ],
+  [
+    "",
+    "Alcoyano",
+    "CD Alcoyano"
+  ],
+  [
+    "",
+    "Algeciras CF",
+    "Algeciras CF"
+  ],
+  [
+    "",
+    "Antequera",
+    ""
+  ],
+  [
+    "",
+    "Atlético Madrid B",
+    "Club Atlético de Madrid B, Atlético Madrid II"
+  ],
+  [
+    "",
+    "Atlético Sanluqueño",
+    "Atl. Sanluqueño CF"
+  ],
+  [
+    "",
+    "Betis Deportivo",
+    "Betis Dep."
+  ],
+  [
+    "",
+    "CF Intercity",
+    "Intercity"
+  ],
+  [
+    "",
+    "FC Andorra",
+    "Andorra"
+  ],
+  [
+    "",
+    "Hercules",
+    "Hércules de Alicante Club de Fútbol"
+  ],
+  [
+    "",
+    "Marbella",
+    ""
+  ],
+  [
+    "",
+    "Mérida AD",
+    "Merida AD"
+  ],
+  [
+    "",
+    "Murcia",
+    "Real Murcia"
+  ],
+  [
+    "",
+    "Real Madrid Castilla",
+    "Real Madrid B"
+  ],
+  [
+    "",
+    "Recreativo",
+    "Recreativo Huelva"
+  ],
+  [
+    "",
+    "SD Amorebieta",
+    "SD Amorebieta"
+  ],
+  [
+    "",
+    "Sevilla Atletico",
+    "Sevilla At."
+  ],
+  [
+    "",
+    "UD Ibiza",
+    "Unión Deportiva Ibiza"
+  ],
+  [
+    "",
+    "Yeclano",
+    ""
+  ],
+  [
+    "",
+    "Alavés B",
+    "Deportivo Alavés B"
+  ],
+  [
+    "",
+    "Alfaro",
+    "Club Deportivo Alfaro, CD Alfaro"
+  ],
+  [
+    "",
+    "Anguiano",
+    ""
+  ],
+  [
+    "",
+    "Arenas Club",
+    "Arenas Club de Getxo, Arenas Getxo"
+  ],
+  [
+    "",
+    "Barbastro",
+    "UD Barbastro, Unión Deportiva Barbastro"
+  ],
+  [
+    "",
+    "Calahorra",
+    "CD Calahorra"
+  ],
+  [
+    "",
+    "CD Izarra",
+    ""
+  ],
+  [
+    "",
+    "CD Teruel",
+    ""
+  ],
+  [
+    "",
+    "Deportivo Aragón",
+    "Real Zaragoza Deportivo Aragón"
+  ],
+  [
+    "",
+    "Eibar B",
+    ""
+  ],
+  [
+    "",
+    "Gernika",
+    ""
+  ],
+  [
+    "",
+    "Real Sociedad III",
+    ""
+  ],
+  [
+    "",
+    "SD Ejea",
+    "Sociedad Deportiva Ejea"
+  ],
+  [
+    "",
+    "SD Logroñés",
+    "SD Logroñés"
+  ],
+  [
+    "",
+    "Subiza",
+    "CD Subiza"
+  ],
+  [
+    "",
+    "Tudelano",
+    "CD Tudelano"
+  ],
+  [
+    "",
+    "UD Logroñés",
+    "UD Logroñés"
+  ],
+  [
+    "",
+    "Utebo",
+    "Utebo Fútbol Club, Utebo FC"
+  ],
+  [
+    "",
+    "Alzira",
+    ""
+  ],
+  [
+    "",
+    "Andratx",
+    ""
+  ],
+  [
+    "",
+    "Atlético Baleares",
+    "Atl. Baleares"
+  ],
+  [
+    "",
+    "CD Ibiza Islas Pitiusas",
+    ""
+  ],
+  [
+    "",
+    "CE Europa",
+    ""
+  ],
+  [
+    "",
+    "CF Badalona",
+    "Club de Fútbol Badalona Futur"
+  ],
+  [
+    "",
+    "Cornellà",
+    "UE Cornellá"
+  ],
+  [
+    "",
+    "Elche Ilicitano",
+    ""
+  ],
+  [
+    "",
+    "Espanyol B",
+    "Espanyol II, RCD Espanyol B, Reial Club Deportiu Espanyol de Barcelona B"
+  ],
+  [
+    "",
+    "Lleida Esportiu",
+    "Club Lleida Esportiu"
+  ],
+  [
+    "",
+    "Mallorca B",
+    "RCD Mallorca B S.A.D., Real Club Deportivo Mallorca B S.A.D."
+  ],
+  [
+    "",
+    "Olot",
+    "UE Olot, Unió Esportiva Olot"
+  ],
+  [
+    "",
+    "Peña Deportiva",
+    "SCR Peña Deportiva, Sociedad Cultural Recreativa Peña Deportiva"
+  ],
+  [
+    "",
+    "Sabadell",
+    "CE Sabadell FC"
+  ],
+  [
+    "",
+    "Sant Andreu",
+    ""
+  ],
+  [
+    "",
+    "Terrassa FC",
+    ""
+  ],
+  [
+    "",
+    "Torrent",
+    ""
+  ],
+  [
+    "",
+    "Valencia Mestalla",
+    "Valencia Club de Fútbol B, Valencia II"
+  ],
+  [
+    "",
+    "Águilas",
+    ""
+  ],
+  [
+    "",
+    "Almeria B",
+    "UD Almería B, Unión Deportiva Almería B"
+  ],
+  [
+    "",
+    "Atlético Antoniano",
+    ""
+  ],
+  [
+    "",
+    "Cadiz Mirandilla",
+    "Cádiz Club de Fútbol B, Cadiz II, Cadiz B,"
+  ],
+  [
+    "",
+    "Deportiva Minera",
+    "CD Minera"
+  ],
+  [
+    "",
+    "Don Benito",
+    "CD Don Benito, Club Deportivo Don Benito"
+  ],
+  [
+    "",
+    "Estepona",
+    ""
+  ],
+  [
+    "",
+    "Juventud Torremolinos",
+    "Juventud de Torremolinos Club de Fútbol, Juventud de Torremolinos CF"
+  ],
+  [
+    "",
+    "La Unión Atlético",
+    ""
+  ],
+  [
+    "",
+    "Linares Deportivo",
+    "Linares Dep."
+  ],
+  [
+    "",
+    "Linense",
+    "RB Linense"
+  ],
+  [
+    "",
+    "Orihuela",
+    "Orihuela Club de Fútbol, Orihuela CF"
+  ],
+  [
+    "",
+    "Recreativo Granada",
+    "Granada II, Club Recreativo Granada"
+  ],
+  [
+    "",
+    "San Fernando CD",
+    "San Fernando CD"
+  ],
+  [
+    "",
+    "UCAM Murcia",
+    "UCAM"
+  ],
+  [
+    "",
+    "Villanovense",
+    ""
+  ],
+  [
+    "",
+    "Xerez",
+    ""
+  ],
+  [
+    "",
+    "Xerez Deportivo",
+    ""
+  ],
+  [
+    "",
+    "Atlético Paso",
+    "Club Deportivo Atlético Paso, CD Atlético Paso"
+  ],
+  [
+    "",
+    "Cacereño",
+    ""
+  ],
+  [
+    "",
+    "CD Coria",
+    ""
+  ],
+  [
+    "",
+    "CD Móstoles URJC",
+    ""
+  ],
+  [
+    "",
+    "Colonia Moscardó",
+    "CDC Moscardó"
+  ],
+  [
+    "",
+    "Conquense",
+    ""
+  ],
+  [
+    "",
+    "Getafe B",
+    "Getafe II, Getafe CF B, Getafe Club de Fútbol B"
+  ],
+  [
+    "",
+    "Guadalajara",
+    "Club Deportivo Guadalajara S.A.D., CD Guadalajara S.A.D."
+  ],
+  [
+    "",
+    "Illescas",
+    ""
+  ],
+  [
+    "",
+    "Melilla",
+    "UD Melilla, Union Deportiva Melilla"
+  ],
+  [
+    "",
+    "Navalcarnero",
+    ""
+  ],
+  [
+    "",
+    "Rayo Majadahonda",
+    "Rayo Majadahonda"
+  ],
+  [
+    "",
+    "Real Madrid C",
+    ""
+  ],
+  [
+    "",
+    "SS Reyes",
+    "San Sebastián de los Reyes"
+  ],
+  [
+    "",
+    "Talavera",
+    "CF Talavera"
+  ],
+  [
+    "",
+    "Tenerife B",
+    ""
+  ],
+  [
+    "",
+    "Unión Adarve",
+    ""
+  ],
+  [
+    "",
+    "Unión Sur Yaiza",
+    ""
+  ],
+  [
+    "",
+    "Athletic Club Women",
+    "Athletic Bilbao Women"
+  ],
+  [
+    "",
+    "Atlético Madrid Femenino",
+    ""
+  ],
+  [
+    "",
+    "Barcelona Femení",
+    ""
+  ],
+  [
+    "",
+    "Deportivo de La Coruña Women",
+    ""
+  ],
+  [
+    "",
+    "Espanyol Femení",
+    ""
+  ],
+  [
+    "",
+    "Granadilla",
+    "UD Granadilla Tenerife, UDG Tenerife, Costa Adeje Tenerife Egatesa"
+  ],
+  [
+    "",
+    "Levante Badalona",
+    "Levante Las Planas"
+  ],
+  [
+    "",
+    "Levante Femenino",
+    "Levante Women"
+  ],
+  [
+    "",
+    "Real Madrid Femenino",
+    "Real Madrid Women"
+  ],
+  [
+    "",
+    "Real Sociedad Femenino",
+    "Real Sociedad Women"
+  ],
+  [
+    "",
+    "Valencia Femenino",
+    "Valencia Women"
+  ]
+]

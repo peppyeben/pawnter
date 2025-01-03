@@ -1,0 +1,642 @@
+[
+  [
+    "",
+    "AIK",
+    "AIK Solna, Allmänna Idrottsklubben"
+  ],
+  [
+    "",
+    "Brommapojkarna",
+    "IF Brommapojkarna"
+  ],
+  [
+    "",
+    "Djurgaarden",
+    "Djurgårdens IF, Djurgårdens IF Fotboll, Djurgardens"
+  ],
+  [
+    "",
+    "Elfsborg",
+    "Idrottsföreningen Elfsborg, IF Elfsborg"
+  ],
+  [
+    "",
+    "Gais",
+    "GAIS"
+  ],
+  [
+    "BKH",
+    "Hacken",
+    "Bollklubben Häcken, BK Hacken, BK Häcken"
+  ],
+  [
+    "",
+    "Halmstad",
+    "Halmstads Bollklubb"
+  ],
+  [
+    "",
+    "Hammarby",
+    "Hammarby IF, Hammarby Fotboll, Bajen"
+  ],
+  [
+    "",
+    "IFK Gothenburg",
+    "IFK, IFK Göteborg, IFK Gothenburg"
+  ],
+  [
+    "",
+    "IFK Varnamo",
+    "IFK Värnamo, Idrottsföreningen Kamraterna Värnamo"
+  ],
+  [
+    "",
+    "Kalmar FF",
+    "KFF, Kalmar, Kalmar FF"
+  ],
+  [
+    "",
+    "Malmo FF",
+    "Di blåe, Malmö Fotbollförening, Malmö FF, Malmo FF"
+  ],
+  [
+    "",
+    "Mjallby",
+    "Mjällby AIF, Mjallby AIF"
+  ],
+  [
+    "",
+    "Norrkoping",
+    "Peking, Snoka, Norrköping, IFK Norrköping"
+  ],
+  [
+    "",
+    "Sirius",
+    ""
+  ],
+  [
+    "",
+    "Vaesteraas SK",
+    "Västerås SK Fotboll, Vasteras SK FK"
+  ],
+  [
+    "",
+    "Degerfors",
+    "Degerfors IF, Degerfors Idrottsförening"
+  ],
+  [
+    "",
+    "Gefle",
+    ""
+  ],
+  [
+    "",
+    "GIF Sundsvall",
+    "GIF, Sundsvall"
+  ],
+  [
+    "",
+    "Helsingborg",
+    "Hälsingborgs IF, HIF"
+  ],
+  [
+    "",
+    "IK Brage",
+    ""
+  ],
+  [
+    "",
+    "Landskrona",
+    ""
+  ],
+  [
+    "",
+    "Oddevold",
+    ""
+  ],
+  [
+    "",
+    "Oerebro",
+    "ÖSK, Örebro SK, Örebro, Orebro SK, Oerebro SK"
+  ],
+  [
+    "",
+    "Oergryte",
+    "Örgryte Idrottssällskap, Örgryte IS, Orgryte IS"
+  ],
+  [
+    "",
+    "Osters IF",
+    "Östers Idrottsförening"
+  ],
+  [
+    "",
+    "Ostersund",
+    "Östersund, Östersunds SK, Oestersunds SK, Oestersund SK, ÖFK"
+  ],
+  [
+    "",
+    "Sandvikens",
+    ""
+  ],
+  [
+    "",
+    "Skövde AIK",
+    "Skövde Allmänna Idrottsklubb"
+  ],
+  [
+    "",
+    "Trelleborgs FF",
+    "Trelleborgs Fotbollsförening"
+  ],
+  [
+    "",
+    "Utsiktens BK",
+    "Utsiktens Bollklubb"
+  ],
+  [
+    "",
+    "Varbergs BoIS FC",
+    "Varberg FC"
+  ],
+  [
+    "",
+    "AFC Eskilstuna",
+    "AFC Eskilstuna, AFC, FC Café Opera, Vasby United, Vaesby United, Väsby United, AFC United"
+  ],
+  [
+    "",
+    "Assyriska FF",
+    "Assyriska Fotbollsföreningen"
+  ],
+  [
+    "",
+    "FBK Karlstad",
+    ""
+  ],
+  [
+    "",
+    "Friska Viljor",
+    ""
+  ],
+  [
+    "",
+    "Hammarby Talang",
+    "HTFF, Hammarby Talangfotbollförening Herrfotboll, Hammarby Talang FF"
+  ],
+  [
+    "",
+    "Karlberg",
+    ""
+  ],
+  [
+    "",
+    "Karlstad",
+    "Karlstad BK"
+  ],
+  [
+    "",
+    "Örebro Syrianska",
+    "ÖSIF, Örebro Syrianska Idrottsförening"
+  ],
+  [
+    "",
+    "Piteå IF",
+    "Piteå Idrottsförening"
+  ],
+  [
+    "",
+    "Sollentuna",
+    "Sollentuna FK"
+  ],
+  [
+    "",
+    "Stockholm Internazionale",
+    ""
+  ],
+  [
+    "",
+    "Stocksund",
+    ""
+  ],
+  [
+    "",
+    "Täby IS",
+    "Täby Idrottssällskap"
+  ],
+  [
+    "",
+    "Umeå",
+    "Umeå FC"
+  ],
+  [
+    "",
+    "United Nordic",
+    "United IK Nordic"
+  ],
+  [
+    "",
+    "Vasalunds",
+    "Vasalunds IF, \tVasalunds Idrottsförening"
+  ],
+  [
+    "",
+    "AFC Eskilstuna",
+    "AFC Eskilstuna, AFC, FC Café Opera, Vasby United, Vaesby United, Väsby United, AFC United"
+  ],
+  [
+    "",
+    "Ahlafors",
+    ""
+  ],
+  [
+    "",
+    "AIK",
+    "AIK Solna, Allmänna Idrottsklubben"
+  ],
+  [
+    "",
+    "Älmhults",
+    ""
+  ],
+  [
+    "",
+    "Anderstorp",
+    ""
+  ],
+  [
+    "",
+    "Angelholm",
+    ""
+  ],
+  [
+    "",
+    "Angered BK",
+    ""
+  ],
+  [
+    "",
+    "Arameiska-Syrianska",
+    ""
+  ],
+  [
+    "",
+    "Arlanda",
+    ""
+  ],
+  [
+    "",
+    "Asarum",
+    ""
+  ],
+  [
+    "",
+    "Assyriska IK",
+    "Assyriska Turabdin IK"
+  ],
+  [
+    "",
+    "Bälinge",
+    ""
+  ],
+  [
+    "",
+    "BK Olympic",
+    ""
+  ],
+  [
+    "",
+    "Brålanda",
+    ""
+  ],
+  [
+    "",
+    "Brommapojkarna",
+    "IF Brommapojkarna"
+  ],
+  [
+    "",
+    "Dalby",
+    ""
+  ],
+  [
+    "",
+    "Dalkurd FF",
+    "Dalkurd Fotbollsförening"
+  ],
+  [
+    "",
+    "Dalstorps",
+    ""
+  ],
+  [
+    "",
+    "Degerfors",
+    "Degerfors IF, Degerfors Idrottsförening"
+  ],
+  [
+    "",
+    "Djurgaarden",
+    "Djurgårdens IF, Djurgårdens IF Fotboll, Djurgardens"
+  ],
+  [
+    "",
+    "Elfsborg",
+    "Idrottsföreningen Elfsborg, IF Elfsborg"
+  ],
+  [
+    "",
+    "Eneby",
+    ""
+  ],
+  [
+    "",
+    "Enköping",
+    ""
+  ],
+  [
+    "",
+    "Enskede",
+    ""
+  ],
+  [
+    "",
+    "Eskilsminne IF",
+    ""
+  ],
+  [
+    "",
+    "Falkenbergs FF",
+    "Falkenbergs Fotbollförening, Falkenberg, FFF"
+  ],
+  [
+    "",
+    "Fanna BK",
+    ""
+  ],
+  [
+    "",
+    "FBK Karlstad",
+    ""
+  ],
+  [
+    "",
+    "Friska Viljor",
+    ""
+  ],
+  [
+    "",
+    "Gais",
+    "GAIS"
+  ],
+  [
+    "",
+    "Gauthiod",
+    ""
+  ],
+  [
+    "",
+    "GIF Sundsvall",
+    "GIF, Sundsvall"
+  ],
+  [
+    "",
+    "Gute",
+    ""
+  ],
+  [
+    "BKH",
+    "Hacken",
+    "Bollklubben Häcken, BK Hacken, BK Häcken"
+  ],
+  [
+    "",
+    "Halmia",
+    ""
+  ],
+  [
+    "",
+    "Halmstad",
+    "Halmstads Bollklubb"
+  ],
+  [
+    "",
+    "Hammarby",
+    "Hammarby IF, Hammarby Fotboll, Bajen"
+  ],
+  [
+    "",
+    "Hammarby Talang",
+    "HTFF, Hammarby Talangfotbollförening Herrfotboll, Hammarby Talang FF"
+  ],
+  [
+    "",
+    "Hässleholms IF",
+    ""
+  ],
+  [
+    "",
+    "Helsingborg",
+    "Hälsingborgs IF, HIF"
+  ],
+  [
+    "",
+    "Huddinge",
+    ""
+  ],
+  [
+    "",
+    "Hudiksvalls FF",
+    "Hudiksvalls Förenade Fotboll"
+  ],
+  [
+    "",
+    "Husqvarna FF",
+    ""
+  ],
+  [
+    "",
+    "Hvetlanda",
+    ""
+  ],
+  [
+    "",
+    "IF Karlstad II",
+    ""
+  ],
+  [
+    "",
+    "IF Sylvia",
+    ""
+  ],
+  [
+    "",
+    "IFK Gothenburg",
+    "IFK, IFK Göteborg, IFK Gothenburg"
+  ],
+  [
+    "",
+    "IFK Haninge",
+    "Idrottsföreningen Kamraterna Haninge"
+  ],
+  [
+    "",
+    "IFK Luleå",
+    "Idrottsföreningen Kamraterna Luleå"
+  ],
+  [
+    "",
+    "IFK Malmö",
+    ""
+  ],
+  [
+    "",
+    "Angelholm",
+    ""
+  ],
+  [
+    "",
+    "Ariana",
+    "Ariana FC"
+  ],
+  [
+    "",
+    "BK Olympic",
+    ""
+  ],
+  [
+    "",
+    "Eskilsminne IF",
+    ""
+  ],
+  [
+    "",
+    "Falkenbergs FF",
+    "Falkenbergs Fotbollförening, Falkenberg, FFF"
+  ],
+  [
+    "",
+    "Joenkoeping S.",
+    "Jönköpings Södra IF, Jonkopings Sodra"
+  ],
+  [
+    "",
+    "Ljungskile",
+    "Ljungskile Sportklubb. LSK"
+  ],
+  [
+    "",
+    "Lunds BK",
+    ""
+  ],
+  [
+    "",
+    "Norrby",
+    "Norrby IF"
+  ],
+  [
+    "",
+    "Onsala",
+    ""
+  ],
+  [
+    "",
+    "Oskarshamns",
+    ""
+  ],
+  [
+    "",
+    "Rosengård",
+    ""
+  ],
+  [
+    "",
+    "Torns IF",
+    ""
+  ],
+  [
+    "",
+    "Torslanda",
+    ""
+  ],
+  [
+    "",
+    "Trollhättan",
+    ""
+  ],
+  [
+    "",
+    "Tvååkers IF",
+    ""
+  ],
+  [
+    "",
+    "AIK Women",
+    ""
+  ],
+  [
+    "",
+    "BK Häcken Women",
+    ""
+  ],
+  [
+    "",
+    "Brommapojkarna Women",
+    ""
+  ],
+  [
+    "",
+    "Djurgården Women",
+    ""
+  ],
+  [
+    "",
+    "Hammarby Women",
+    ""
+  ],
+  [
+    "",
+    "KIF Örebro",
+    ""
+  ],
+  [
+    "",
+    "Kristianstad Women",
+    ""
+  ],
+  [
+    "",
+    "Linköping Women",
+    ""
+  ],
+  [
+    "",
+    "Norrköping Women",
+    ""
+  ],
+  [
+    "",
+    "Piteå Women",
+    ""
+  ],
+  [
+    "",
+    "Rosengård Women",
+    ""
+  ],
+  [
+    "",
+    "Trelleborgs FF Women",
+    ""
+  ],
+  [
+    "",
+    "Växjö",
+    ""
+  ],
+  [
+    "",
+    "Vittsjö",
+    ""
+  ]
+]

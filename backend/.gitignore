@@ -53,3 +53,6 @@ tmp/
 *.pem
 
 yarn.lock
+
+config/cdp_api_key.json
+config/wallet_data.txt

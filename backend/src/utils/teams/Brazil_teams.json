@@ -1,0 +1,882 @@
+[
+  [
+    "CAM",
+    "Atlético Mineiro",
+    "Atletico-MG, Clube Atlético Mineiro"
+  ],
+  [
+    "BAH",
+    "Bahia",
+    ""
+  ],
+  [
+    "BOT",
+    "Botafogo",
+    "Botafogo de Futebol e Regatas"
+  ],
+  [
+    "BRA",
+    "Bragantino",
+    "Red Bull Bragantino, Clube Atlético Bragantino, Red Bull Brasil"
+  ],
+  [
+    "",
+    "Ceará",
+    "Ceará Sporting Club"
+  ],
+  [
+    "COR",
+    "Corinthians",
+    ""
+  ],
+  [
+    "CRU",
+    "Cruzeiro",
+    "Cruzeiro"
+  ],
+  [
+    "FLA",
+    "Flamengo",
+    "Flamengo RJ"
+  ],
+  [
+    "FLU",
+    "Fluminense",
+    "Fluminense Football Club"
+  ],
+  [
+    "FOR",
+    "Fortaleza",
+    ""
+  ],
+  [
+    "GRE",
+    "Grêmio",
+    "Grêmio Foot-Ball Porto Alegrense"
+  ],
+  [
+    "INT",
+    "Internacional",
+    "SC Internacional"
+  ],
+  [
+    "",
+    "Juventude",
+    "Esporte Clube Juventude, EC Juventude"
+  ],
+  [
+    "",
+    "Mirassol",
+    "MFC, Mirassol Futebol Clube"
+  ],
+  [
+    "PAL",
+    "Palmeiras",
+    ""
+  ],
+  [
+    "SAN",
+    "Santos",
+    "Santos Futebol Clube"
+  ],
+  [
+    "SAO",
+    "São Paulo",
+    "São Paulo Futebol Clube"
+  ],
+  [
+    "",
+    "Sport Club do Recife",
+    "Sport Recife"
+  ],
+  [
+    "VAS",
+    "Vasco da Gama",
+    "Club de Regatas Vasco da Gama"
+  ],
+  [
+    "",
+    "Vitória",
+    "Esporte Clube Vitória"
+  ],
+  [
+    "",
+    "Amazonas",
+    "Amazonas Futebol Clube"
+  ],
+  [
+    "AMG",
+    "América Mineiro",
+    "America MG"
+  ],
+  [
+    "",
+    "Athletic Club-MG",
+    "Athletic Club MG"
+  ],
+  [
+    "CAP",
+    "Athletico Paranaense",
+    "Club Athletico Paranaense, "
+  ],
+  [
+    "ACG",
+    "Atlético Goianiense",
+    "Atletico GO, Atlético Clube Goianiense"
+  ],
+  [
+    "",
+    "Avaí",
+    "Avaí Futebol Clube"
+  ],
+  [
+    "",
+    "Botafogo-SP",
+    "Botafogo de Ribeirão Preto, Botafogo Futebol Clube"
+  ],
+  [
+    "",
+    "Chapecoense",
+    "Associação Chapecoense de Futebol"
+  ],
+  [
+    "CFC",
+    "Coritiba",
+    "Coritiba Foot Ball Club, Coxa"
+  ],
+  [
+    "",
+    "CRB",
+    ""
+  ],
+  [
+    "",
+    "Criciúma",
+    "Criciúma Esporte Clube"
+  ],
+  [
+    "CUI",
+    "Cuiabá",
+    "Cuiabá Esporte Clube"
+  ],
+  [
+    "",
+    "Ferroviária",
+    "Associação Ferroviária de Esportes"
+  ],
+  [
+    "GOI",
+    "Goiás",
+    "Goiás Esporte Clube"
+  ],
+  [
+    "",
+    "Novorizontino",
+    "Grêmio Novorizontino"
+  ],
+  [
+    "",
+    "Operário Ferroviário",
+    "Operário Ferroviário Esporte Clube, Operário-PR, Operário de Ponta Grossa"
+  ],
+  [
+    "",
+    "Paysandu",
+    ""
+  ],
+  [
+    "",
+    "Remo",
+    "Clube do Remo"
+  ],
+  [
+    "",
+    "Vila Nova",
+    ""
+  ],
+  [
+    "",
+    "Volta Redonda",
+    "Volta Redonda FC, Voltaço"
+  ],
+  [
+    "",
+    "ABC",
+    "ABC Futebol Clube"
+  ],
+  [
+    "",
+    "Anápolis",
+    "Anápolis Futebol Clube"
+  ],
+  [
+    "",
+    "Botafogo-PB",
+    "Botafogo da Paraíba, Botafogo Futebol Clube"
+  ],
+  [
+    "",
+    "Brusque",
+    "Brusque Futebol Clube, Brusque FC"
+  ],
+  [
+    "",
+    "Caxias",
+    "SER Caxias"
+  ],
+  [
+    "",
+    "Confiança",
+    "Associação Desportiva Confiança, ADC"
+  ],
+  [
+    "",
+    "CSA",
+    "Centro Sportivo Alagoano"
+  ],
+  [
+    "",
+    "Figueirense",
+    "Figueira"
+  ],
+  [
+    "",
+    "Floresta",
+    "Floresta Esporte Clube, Floresta EC"
+  ],
+  [
+    "",
+    "Guarani",
+    "Guarani Campinas"
+  ],
+  [
+    "",
+    "Itabaiana",
+    "Associação Olímpica de Itabaiana"
+  ],
+  [
+    "",
+    "Ituano",
+    "Ituano Futebol Clube, Ituano FC"
+  ],
+  [
+    "",
+    "Londrina",
+    "Londrina Esporte Clube"
+  ],
+  [
+    "",
+    "Maringá",
+    "Maringá Futebol Clube"
+  ],
+  [
+    "",
+    "Náutico",
+    "Clube Náutico Capibaribe"
+  ],
+  [
+    "",
+    "Ponte Preta",
+    "Ponte Preta"
+  ],
+  [
+    "",
+    "Retrô",
+    ""
+  ],
+  [
+    "",
+    "São Bernardo",
+    ""
+  ],
+  [
+    "",
+    "Tombense",
+    "Tombense Futebol Clube"
+  ],
+  [
+    "",
+    "Ypiranga",
+    "Ypiranga Futebol Clube"
+  ],
+  [
+    "",
+    "ABC",
+    "ABC Futebol Clube"
+  ],
+  [
+    "",
+    "Altos",
+    "Associação Atlética de Altos, AA Altos"
+  ],
+  [
+    "",
+    "Amazonas",
+    "Amazonas Futebol Clube"
+  ],
+  [
+    "",
+    "América de Natal",
+    "América-RN, América Futebol Clube"
+  ],
+  [
+    "AMG",
+    "América Mineiro",
+    "America MG"
+  ],
+  [
+    "",
+    "Aparecidense",
+    ""
+  ],
+  [
+    "",
+    "ASA",
+    "ASA de Arapiraca, Agremiação Sportiva Arapiraquense"
+  ],
+  [
+    "",
+    "Athletic Club-MG",
+    "Athletic Club MG"
+  ],
+  [
+    "CAP",
+    "Athletico Paranaense",
+    "Club Athletico Paranaense, "
+  ],
+  [
+    "ACG",
+    "Atlético Goianiense",
+    "Atletico GO, Atlético Clube Goianiense"
+  ],
+  [
+    "CAM",
+    "Atlético Mineiro",
+    "Atletico-MG, Clube Atlético Mineiro"
+  ],
+  [
+    "BAH",
+    "Bahia",
+    ""
+  ],
+  [
+    "",
+    "Barcelona de Ilhéus",
+    "Barcelona-BA"
+  ],
+  [
+    "",
+    "Barcelona-RO",
+    "Barcelona Futebol Clube"
+  ],
+  [
+    "",
+    "Boavista SC",
+    ""
+  ],
+  [
+    "BOT",
+    "Botafogo",
+    "Botafogo de Futebol e Regatas"
+  ],
+  [
+    "",
+    "Botafogo-PB",
+    "Botafogo da Paraíba, Botafogo Futebol Clube"
+  ],
+  [
+    "BRA",
+    "Bragantino",
+    "Red Bull Bragantino, Clube Atlético Bragantino, Red Bull Brasil"
+  ],
+  [
+    "",
+    "Brusque",
+    "Brusque Futebol Clube, Brusque FC"
+  ],
+  [
+    "",
+    "Capital CF",
+    "Capital Clube de Futebol"
+  ],
+  [
+    "",
+    "Caxias",
+    "SER Caxias"
+  ],
+  [
+    "",
+    "Ceará",
+    "Ceará Sporting Club"
+  ],
+  [
+    "",
+    "Ceilândia",
+    ""
+  ],
+  [
+    "",
+    "Concórdia-SC",
+    "Concórdia Atlético Clube"
+  ],
+  [
+    "",
+    "Confiança",
+    "Associação Desportiva Confiança, ADC"
+  ],
+  [
+    "COR",
+    "Corinthians",
+    ""
+  ],
+  [
+    "CFC",
+    "Coritiba",
+    "Coritiba Foot Ball Club, Coxa"
+  ],
+  [
+    "",
+    "CRB",
+    ""
+  ],
+  [
+    "",
+    "Criciúma",
+    "Criciúma Esporte Clube"
+  ],
+  [
+    "CRU",
+    "Cruzeiro",
+    "Cruzeiro"
+  ],
+  [
+    "",
+    "CSA",
+    "Centro Sportivo Alagoano"
+  ],
+  [
+    "",
+    "CSE",
+    ""
+  ],
+  [
+    "CUI",
+    "Cuiabá",
+    "Cuiabá Esporte Clube"
+  ],
+  [
+    "DAC",
+    "Dourados",
+    "Dourados Atlético Clube"
+  ],
+  [
+    "",
+    "FC Cascavel",
+    ""
+  ],
+  [
+    "",
+    "Ferroviário",
+    "Ferroviário Atlético Clube"
+  ],
+  [
+    "FLA",
+    "Flamengo",
+    "Flamengo RJ"
+  ],
+  [
+    "FLU",
+    "Fluminense",
+    "Fluminense Football Club"
+  ],
+  [
+    "FOR",
+    "Fortaleza",
+    ""
+  ],
+  [
+    "",
+    "GAS",
+    ""
+  ],
+  [
+    "GRE",
+    "Grêmio",
+    "Grêmio Foot-Ball Porto Alegrense"
+  ],
+  [
+    "",
+    "Guarany de Bagé",
+    "Guarany Futebol Clube"
+  ],
+  [
+    "",
+    "Humaitá",
+    ""
+  ],
+  [
+    "",
+    "Independência",
+    "Independência Futebol Clube"
+  ],
+  [
+    "",
+    "Inter de Limeira",
+    ""
+  ],
+  [
+    "INT",
+    "Internacional",
+    "SC Internacional"
+  ],
+  [
+    "ADJ",
+    "Jequié",
+    "Associação Desportiva Jequié"
+  ],
+  [
+    "",
+    "Juventude",
+    "Esporte Clube Juventude, EC Juventude"
+  ],
+  [
+    "",
+    "Maracanã",
+    "Maracanã Esporte Clube, Maracanã EC"
+  ],
+  [
+    "",
+    "Maranhão",
+    "Maranhão Atlético Clube, MAC"
+  ],
+  [
+    "",
+    "Água Santa",
+    "Esporte Clube Água Santa, EC Água Santa"
+  ],
+  [
+    "",
+    "Águia de Marabá",
+    "Águia de Marabá Futebol Clube"
+  ],
+  [
+    "",
+    "Altos",
+    "Associação Atlética de Altos, AA Altos"
+  ],
+  [
+    "",
+    "América de Natal",
+    "América-RN, América Futebol Clube"
+  ],
+  [
+    "",
+    "Aparecidense",
+    ""
+  ],
+  [
+    "",
+    "ASA",
+    "ASA de Arapiraca, Agremiação Sportiva Arapiraquense"
+  ],
+  [
+    "",
+    "Atlético Monte Azul",
+    ""
+  ],
+  [
+    "",
+    "Azuriz",
+    ""
+  ],
+  [
+    "",
+    "Barcelona de Ilhéus",
+    "Barcelona-BA"
+  ],
+  [
+    "",
+    "Barra",
+    "Barra Futebol Clube, Barra FC"
+  ],
+  [
+    "",
+    "Boavista SC",
+    ""
+  ],
+  [
+    "",
+    "Brasil de Pelotas",
+    ""
+  ],
+  [
+    "",
+    "Capital CF",
+    "Capital Clube de Futebol"
+  ],
+  [
+    "",
+    "Ceilândia",
+    ""
+  ],
+  [
+    "",
+    "Central Sport Club",
+    ""
+  ],
+  [
+    "",
+    "Cianorte",
+    ""
+  ],
+  [
+    "",
+    "FC Cascavel",
+    ""
+  ],
+  [
+    "",
+    "Ferroviário",
+    "Ferroviário Atlético Clube"
+  ],
+  [
+    "",
+    "GAS",
+    ""
+  ],
+  [
+    "",
+    "Goianésia",
+    ""
+  ],
+  [
+    "",
+    "Goiânia",
+    "Goiânia Esporte Clube"
+  ],
+  [
+    "",
+    "Goiatuba",
+    "Goiatuba Esporte Clube"
+  ],
+  [
+    "",
+    "Guarany de Bagé",
+    "Guarany Futebol Clube"
+  ],
+  [
+    "",
+    "Horizonte",
+    "Horizonte Futebol Clube"
+  ],
+  [
+    "",
+    "Humaitá",
+    ""
+  ],
+  [
+    "",
+    "Iguatu",
+    "Iguatu-CE, Associação Desportiva Iguatu"
+  ],
+  [
+    "",
+    "Imperatriz",
+    "Sociedade Imperatriz de Desportos"
+  ],
+  [
+    "",
+    "Independência",
+    "Independência Futebol Clube"
+  ],
+  [
+    "",
+    "Inter de Limeira",
+    ""
+  ],
+  [
+    "",
+    "Itabirito",
+    "Itabirito Futebol Clube"
+  ],
+  [
+    "ADJ",
+    "Jequié",
+    "Associação Desportiva Jequié"
+  ],
+  [
+    "JEC",
+    "Joinville",
+    "Joinville Esporte Clube"
+  ],
+  [
+    "",
+    "Juazeirense",
+    ""
+  ],
+  [
+    "",
+    "Lagarto",
+    "Lagarto Futebol Clube"
+  ],
+  [
+    "",
+    "Luverdense",
+    "Luverdense Esporte Clube"
+  ],
+  [
+    "",
+    "Manauara",
+    "Manauara Esporte Clube, Manauara EC"
+  ],
+  [
+    "",
+    "Manaus",
+    "Manaus Futebol Clube"
+  ],
+  [
+    "",
+    "Maracanã",
+    "Maracanã Esporte Clube, Maracanã EC"
+  ],
+  [
+    "",
+    "Maranhão",
+    "Maranhão Atlético Clube, MAC"
+  ],
+  [
+    "",
+    "Marcílio Dias",
+    "Clube Náutico Marcílio Dias"
+  ],
+  [
+    "",
+    "Maricá",
+    "CFRJ Maricá, Maricá Futebol Clube"
+  ],
+  [
+    "",
+    "Nova Iguaçu",
+    ""
+  ],
+  [
+    "",
+    "Operário de Campo Grande",
+    "Operário-MS, Operário Futebol Clube"
+  ],
+  [
+    "",
+    "Parnahyba",
+    "Parnahyba Sport Club, Parnahyba-PI"
+  ],
+  [
+    "",
+    "Penedense",
+    "Sport Club Penedense"
+  ],
+  [
+    "",
+    "Porto Velho",
+    ""
+  ],
+  [
+    "",
+    "Porto Vitória",
+    "Porto Vitória Futebol Clube"
+  ],
+  [
+    "",
+    "Portuguesa",
+    "Associação Portuguesa de Desportos"
+  ],
+  [
+    "",
+    "Pouso Alegre",
+    "Pouso Alegre Futebol Clube"
+  ],
+  [
+    "",
+    "Rio Branco-ES",
+    "Rio Branco Atlético Clube"
+  ],
+  [
+    "",
+    "Atlético Mineiro Women",
+    ""
+  ],
+  [
+    "",
+    "Corinthians Women",
+    ""
+  ],
+  [
+    "",
+    "CRESSPOM",
+    ""
+  ],
+  [
+    "",
+    "Cruzeiro Women",
+    ""
+  ],
+  [
+    "",
+    "ESMAC",
+    "Escola Superior Madre Celeste"
+  ],
+  [
+    "",
+    "Ferroviaria Women",
+    ""
+  ],
+  [
+    "",
+    "Flamengo Women",
+    ""
+  ],
+  [
+    "",
+    "Gremio Women",
+    ""
+  ],
+  [
+    "",
+    "Internacional RS Women",
+    ""
+  ],
+  [
+    "",
+    "Kindermann Women",
+    ""
+  ],
+  [
+    "",
+    "Palmeiras Women",
+    ""
+  ],
+  [
+    "",
+    "RB Bragantino Women",
+    ""
+  ],
+  [
+    "",
+    "Real Brasília Women",
+    ""
+  ],
+  [
+    "",
+    "Santos Women",
+    ""
+  ],
+  [
+    "",
+    "Sao Jose Women",
+    ""
+  ],
+  [
+    "",
+    "São Paulo Women",
+    ""
+  ]
+]

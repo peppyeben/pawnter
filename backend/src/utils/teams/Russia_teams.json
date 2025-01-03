@@ -1,0 +1,792 @@
+[
+  [
+    "",
+    "Akhmat Grozny",
+    "Терек Грозный, клуб Ахмат Грозный, Akhmat Grozny, Ахмат Соьлжа-ГӀала, Akmat, Grozny"
+  ],
+  [
+    "",
+    "Akron Tolyatti",
+    "ФК Акрон Тольятти"
+  ],
+  [
+    "",
+    "CSKA Moscow",
+    "ЦСКА, ЦСКА Москва, CSKA, Moskva, Moscow, CSKA Moscow, CSKA Moskva, PFC CSKA, "
+  ],
+  [
+    "",
+    "Dinamo Makhachkala",
+    "FC Anzhi Makhachkala, FC Dynamo Makhachkala, FC Dinamo Makhachkala, FC Makhachkala, ФК Динамо Махачкала, ФК Махачкала"
+  ],
+  [
+    "",
+    "Dinamo Moscow",
+    "Dynamo, Dinamo Moscow, Moskva, Dinamo Moskva, Dynamo Moskva, Дина́мо Москва́, Дина́мо, Москва́"
+  ],
+  [
+    "",
+    "Fakel Voronezh",
+    "Футбольный клуб Факел Воронеж"
+  ],
+  [
+    "",
+    "FC Krasnodar",
+    "ФК Краснодар, FK Krasnodar"
+  ],
+  [
+    "",
+    "FK Rostov",
+    "Ростов, Футбольный клуб Ростов, FK Rostov"
+  ],
+  [
+    "",
+    "FK Rubin Kazan",
+    "Руби́н Каза́нь, Rubin Kazan, FK Kazan, FK Rubin, Tatarstan, Qazan"
+  ],
+  [
+    "",
+    "Gazovik Orenburg",
+    "ФК «Оренбург», FK Orenburg, FC Orenburg"
+  ],
+  [
+    "",
+    "Khimki FK",
+    "ФК Химки"
+  ],
+  [
+    "",
+    "Krylya Sovetov Samara",
+    "Крылья Советов, Самара, Krylia Sovetov Samara, PFC Krylia Sovetov Samara"
+  ],
+  [
+    "",
+    "Lokomotiv Moscow",
+    "Lok. Moscow"
+  ],
+  [
+    "",
+    "Nizhny Novgorod",
+    "Пари НН, Пари Нижний Новгород, Pari NN, Pari Nizhny Novgorod, FC Nizhny Novgorod, ФК Нижний Новгород"
+  ],
+  [
+    "",
+    "Spartak Moscow",
+    "Спартак, Спартак Москва, Spartak Moskva, FC Spartak Moscow"
+  ],
+  [
+    "",
+    "Zenit St Petersburg",
+    "Зени́т, Футбольный клуб Зенит, Фк Зенит, St Petersburg, Санкт-Петербург"
+  ],
+  [
+    "",
+    "Alania Vladikavkaz",
+    "FC Alania Vladikavkaz, Алания Владикавказ, Футболон клуб Алани Дзæуджыхъæу"
+  ],
+  [
+    "",
+    "Arsenal Tula",
+    "Арсенал Тула, ФК Тула, Arsenal, Tula, FK Tula"
+  ],
+  [
+    "",
+    "Baltika Kaliningrad",
+    "\tFootball Club Baltika Kaliningrad, FC Baltika Kaliningrad"
+  ],
+  [
+    "",
+    "Chayka Peschanokopskoye",
+    "Чайка Песчанокопское"
+  ],
+  [
+    "",
+    "FC Chernomorets Novorossiysk",
+    ""
+  ],
+  [
+    "",
+    "FC Rodina Moscow",
+    ""
+  ],
+  [
+    "",
+    "FC Sokol Saratov",
+    ""
+  ],
+  [
+    "",
+    "FC Tyumen",
+    ""
+  ],
+  [
+    "",
+    "FC Ufa",
+    "ФК «Уфа», Өфө, Öfö, FK Ufa"
+  ],
+  [
+    "",
+    "FC Yenisey Krasnoyarsk",
+    "ФК Енисей Красноярск"
+  ],
+  [
+    "",
+    "KAMAZ Naberezhnye Chelny",
+    "KAMAZ, Футбольный клуб КАМАЗ Набережные Челны"
+  ],
+  [
+    "",
+    "Neftekhimik Nizhnekamsk",
+    "ФК Нефтехимик Нижнекамск"
+  ],
+  [
+    "",
+    "Rotor Volgograd",
+    "ФК Ротор Волгоград"
+  ],
+  [
+    "",
+    "Shinnik Yaroslavl",
+    "Футбольный клуб Шинник Ярославль"
+  ],
+  [
+    "",
+    "SKA-Khabarovsk",
+    "Футбольный клуб СКА-Хабаровск"
+  ],
+  [
+    "",
+    "Sochi",
+    "PFC Sochi"
+  ],
+  [
+    "",
+    "Torpedo Moscow",
+    "ФК Торпедо Москва, FK Torpedo Moskva"
+  ],
+  [
+    "",
+    "Ural S.R",
+    "ФК Урал, Sverdlovskaya Oblast, FK Ural, FC Ural, Yekateringburg, Ekaterinburg"
+  ],
+  [
+    "",
+    "Akhmat Grozny",
+    "Терек Грозный, клуб Ахмат Грозный, Akhmat Grozny, Ахмат Соьлжа-ГӀала, Akmat, Grozny"
+  ],
+  [
+    "",
+    "Akron Tolyatti",
+    "ФК Акрон Тольятти"
+  ],
+  [
+    "",
+    "Alania Vladikavkaz",
+    "FC Alania Vladikavkaz, Алания Владикавказ, Футболон клуб Алани Дзæуджыхъæу"
+  ],
+  [
+    "",
+    "Amkar Perm",
+    "Амкар Пермь"
+  ],
+  [
+    "",
+    "Arsenal Tula",
+    "Арсенал Тула, ФК Тула, Arsenal, Tula, FK Tula"
+  ],
+  [
+    "",
+    "Avangard Kursk",
+    "FC Avangard Kursk"
+  ],
+  [
+    "",
+    "Baltika Kaliningrad",
+    "\tFootball Club Baltika Kaliningrad, FC Baltika Kaliningrad"
+  ],
+  [
+    "",
+    "Biolog-Novokubansk",
+    "Биолог-Новокубанск"
+  ],
+  [
+    "",
+    "Chayka Peschanokopskoye",
+    "Чайка Песчанокопское"
+  ],
+  [
+    "",
+    "Chelyabinsk",
+    "FC Chelyabinsk, ФК Челябинск"
+  ],
+  [
+    "",
+    "Chertanovo Moscow",
+    "Чертаново Москва"
+  ],
+  [
+    "",
+    "CSKA Moscow",
+    "ЦСКА, ЦСКА Москва, CSKA, Moskva, Moscow, CSKA Moscow, CSKA Moskva, PFC CSKA, "
+  ],
+  [
+    "",
+    "Dinamo Makhachkala",
+    "FC Anzhi Makhachkala, FC Dynamo Makhachkala, FC Dinamo Makhachkala, FC Makhachkala, ФК Динамо Махачкала, ФК Махачкала"
+  ],
+  [
+    "",
+    "Dinamo Moscow",
+    "Dynamo, Dinamo Moscow, Moskva, Dinamo Moskva, Dynamo Moskva, Дина́мо Москва́, Дина́мо, Москва́"
+  ],
+  [
+    "",
+    "Druzhba Maykop",
+    "Дружба Майкоп"
+  ],
+  [
+    "",
+    "Dynamo Barnaul",
+    "Динамо-Барнаул"
+  ],
+  [
+    "",
+    "Dynamo Bryansk",
+    "футбольный клуб Динамо Брянск, Dinamo Bryansk"
+  ],
+  [
+    "",
+    "Dynamo Kirov",
+    "АНО «Футбольный клуб „Динамо“ город Киров», Динамо Киров"
+  ],
+  [
+    "",
+    "Dynamo Stavropol",
+    "Динамо Ставрополь"
+  ],
+  [
+    "",
+    "Dynamo Vladivostok",
+    "Динамо Владивосток"
+  ],
+  [
+    "",
+    "Fakel Voronezh",
+    "Футбольный клуб Факел Воронеж"
+  ],
+  [
+    "",
+    "FC Chernomorets Novorossiysk",
+    ""
+  ],
+  [
+    "",
+    "FC Chita",
+    ""
+  ],
+  [
+    "",
+    "FC Krasnodar",
+    "ФК Краснодар, FK Krasnodar"
+  ],
+  [
+    "",
+    "FC Metallurg Vidnoye",
+    ""
+  ],
+  [
+    "",
+    "FC Rodina Moscow",
+    ""
+  ],
+  [
+    "",
+    "FC SKA Rostov-on-Don",
+    "ФК СКА Ростов-на-Дону, FC SKA Rostov-on-Don"
+  ],
+  [
+    "",
+    "FC Sokol Saratov",
+    ""
+  ],
+  [
+    "",
+    "FC Tyumen",
+    ""
+  ],
+  [
+    "",
+    "FC Ufa",
+    "ФК «Уфа», Өфө, Öfö, FK Ufa"
+  ],
+  [
+    "",
+    "FC Yenisey Krasnoyarsk",
+    "ФК Енисей Красноярск"
+  ],
+  [
+    "",
+    "FC Zenit-Izhevsk",
+    ""
+  ],
+  [
+    "",
+    "FC Znamya Noginsk",
+    ""
+  ],
+  [
+    "",
+    "FC Zvezda Perm",
+    ""
+  ],
+  [
+    "",
+    "FK Ilpar",
+    ""
+  ],
+  [
+    "",
+    "FK Rostov",
+    "Ростов, Футбольный клуб Ростов, FK Rostov"
+  ],
+  [
+    "",
+    "FK Rubin Kazan",
+    "Руби́н Каза́нь, Rubin Kazan, FK Kazan, FK Rubin, Tatarstan, Qazan"
+  ],
+  [
+    "",
+    "FK Spartak Tuymazy",
+    ""
+  ],
+  [
+    "",
+    "FK Yadro St. Petersburg",
+    ""
+  ],
+  [
+    "",
+    "Forte Taganrog",
+    "Форте Таганрог"
+  ],
+  [
+    "",
+    "Gazovik Orenburg",
+    "ФК «Оренбург», FK Orenburg, FC Orenburg"
+  ],
+  [
+    "",
+    "Irtysh Omsk",
+    "Иртыш Футбольный Клуб, Иртыш Омск"
+  ],
+  [
+    "",
+    "Kaluga",
+    "FC Kaluga, ФК Калуга"
+  ],
+  [
+    "",
+    "KAMAZ Naberezhnye Chelny",
+    "KAMAZ, Футбольный клуб КАМАЗ Набережные Челны"
+  ],
+  [
+    "",
+    "Khimik Dzerzhinsk",
+    "Химик Дзержинск"
+  ],
+  [
+    "",
+    "Khimki FK",
+    "ФК Химки"
+  ],
+  [
+    "",
+    "Kolomna",
+    "FC Kolomna, ФК «Коломна»"
+  ],
+  [
+    "",
+    "Kompozit Pavlovsky Posad",
+    "Композит Павловский Посад, FC Kompozit"
+  ],
+  [
+    "",
+    "Krylya Sovetov Samara",
+    "Крылья Советов, Самара, Krylia Sovetov Samara, PFC Krylia Sovetov Samara"
+  ],
+  [
+    "",
+    "Kuban-Holding Pavlovskaya",
+    "Кубань-Холдинг Павловская"
+  ],
+  [
+    "",
+    "Angusht Nazran",
+    ""
+  ],
+  [
+    "",
+    "Astrakhan",
+    "SC Astrakhan, ФК А́страхань"
+  ],
+  [
+    "",
+    "Biolog-Novokubansk",
+    "Биолог-Новокубанск"
+  ],
+  [
+    "",
+    "Druzhba Maykop",
+    "Дружба Майкоп"
+  ],
+  [
+    "",
+    "Dynamo Stavropol",
+    "Динамо Ставрополь"
+  ],
+  [
+    "",
+    "Kuban-Holding Pavlovskaya",
+    "Кубань-Холдинг Павловская"
+  ],
+  [
+    "",
+    "Legion Dynamo Makhachkala",
+    "Легион Динамо Махачкала"
+  ],
+  [
+    "",
+    "Nart Cherkessk",
+    ""
+  ],
+  [
+    "",
+    "Pobeda Khasavyurt",
+    ""
+  ],
+  [
+    "",
+    "Rostov-2",
+    "FK Rostov-2, ФК Ростов-2"
+  ],
+  [
+    "",
+    "Rubin Yalta",
+    "Футбольный клуб «Рубин» (Ялта), Рубин Ялта, Фк Рубин Ялта"
+  ],
+  [
+    "",
+    "Sevastopol",
+    "ФК Севастополь"
+  ],
+  [
+    "",
+    "Spartak Nalchik",
+    "Спартак Нальчик"
+  ],
+  [
+    "",
+    "Stroitel Kamensk-Shakhtinsky",
+    ""
+  ],
+  [
+    "",
+    "Baltika-BFU Kaliningrad",
+    "Балтика-БФУ Калининград"
+  ],
+  [
+    "",
+    "Chertanovo Moscow",
+    "Чертаново Москва"
+  ],
+  [
+    "",
+    "Dinamo Vologda",
+    "FC Dynamo Vologda, ФК Динамо Вологда"
+  ],
+  [
+    "",
+    "Dynamo Saint Petersburg",
+    "Dinamo St. Petersburg, Динамо Санкт-Петербург"
+  ],
+  [
+    "",
+    "Irkutsk",
+    "АНО «Футбольный клуб „Иркутск“», Фк Иркутск"
+  ],
+  [
+    "",
+    "Luki-Energiya Velikiye Luki",
+    "Луки‑Энергия Великие Луки"
+  ],
+  [
+    "",
+    "Rodina-M Moscow",
+    "Родина-М Москва, Rodina-3 Moscow"
+  ],
+  [
+    "",
+    "Saturn Ramenskoye",
+    "State-Owned Enterprise of the Moscow Region Football Club Saturn Moscow Region, Государственное учреждение Московской области Футбольный клуб \"Сатурн\" Московская область"
+  ],
+  [
+    "",
+    "Spartak-2 Moscow",
+    "ФК Спартак-2 Москва"
+  ],
+  [
+    "",
+    "Torpedo Vladimir",
+    "Торпедо Владимир"
+  ],
+  [
+    "",
+    "Tver",
+    "FC Tver, ФК Тверь"
+  ],
+  [
+    "",
+    "Zenit-2 Saint Petersburg",
+    "Зенит-2 Санкт-Петербург"
+  ],
+  [
+    "",
+    "Znamya Truda Orekhovo-Zuyevo",
+    "Знамя Труда Орехово-Зуево"
+  ],
+  [
+    "",
+    "Arsenal-2 Tula",
+    "Arsenal Tula II"
+  ],
+  [
+    "",
+    "Khimki-M",
+    "Khimki II, Химки-М"
+  ],
+  [
+    "",
+    "Kompozit Pavlovsky Posad",
+    "Композит Павловский Посад, FC Kompozit"
+  ],
+  [
+    "",
+    "Kosmos Dolgoprudny",
+    "ФК Космос Долгопрудный"
+  ],
+  [
+    "",
+    "Oryol",
+    "FC Oryol, ФК Орёл"
+  ],
+  [
+    "",
+    "Ryazan",
+    "FC Ryazan, ФК Рязань"
+  ],
+  [
+    "",
+    "Sakhalin Yuzhno-Sakhalinsk",
+    "Сахалин Южно-Сахалинск"
+  ],
+  [
+    "",
+    "Salyut Belgorod",
+    "Салют Белгород"
+  ],
+  [
+    "",
+    "SKA-Khabarovsk-2",
+    "СКА-Хабаровск-2"
+  ],
+  [
+    "",
+    "Spartak Tambov",
+    "Спартак Тамбов, TOGAOU DOD SDYuSShOR Academia Football Tambov Region"
+  ],
+  [
+    "",
+    "Strogino Moscow",
+    "Строгино Москва"
+  ],
+  [
+    "",
+    "Zenit Penza",
+    "Зенит Пенза"
+  ],
+  [
+    "",
+    "Amkar Perm",
+    "Амкар Пермь"
+  ],
+  [
+    "",
+    "Dynamo Barnaul",
+    "Динамо-Барнаул"
+  ],
+  [
+    "",
+    "Krylia Sovetov-2 Samara",
+    "Крылья Советов-2 Самара"
+  ],
+  [
+    "",
+    "Lada-Tolyatti",
+    "FC Lada-Tolyatti"
+  ],
+  [
+    "",
+    "Nosta Novotroitsk",
+    "Носта Новотроицк"
+  ],
+  [
+    "",
+    "Orenburg-2",
+    "FC Orenburg-2, Orenburg II, ФК Оренбург-2"
+  ],
+  [
+    "",
+    "Rubin-2 Kazan",
+    "FK Rubin-2 Kazan, ФК Рубин-2 Казань"
+  ],
+  [
+    "",
+    "Sokol Kazan",
+    ""
+  ],
+  [
+    "",
+    "Ural-2 Yekaterinburg",
+    "FC Ural-2 Yekaterinburg, Ural II, ФК Урал-2 Екатеринбург"
+  ],
+  [
+    "",
+    "Uralets-TS Nizhny Tagil",
+    "FC Uralets-TS Nizhny Tagil, ФК Уралец-ТС Нижний Тагил"
+  ],
+  [
+    "",
+    "Volna Nizhny Novgorod Oblast",
+    "Волна Нижегородская область"
+  ],
+  [
+    "",
+    "Chelyabinsk",
+    "FC Chelyabinsk, ФК Челябинск"
+  ],
+  [
+    "",
+    "Leningradets Leningrad Oblast",
+    "Футбольный клуб Ленинградец"
+  ],
+  [
+    "",
+    "Mashuk-KMV Pyatigorsk",
+    "Кавминводский Фонд ФК Машук-КМВ"
+  ],
+  [
+    "",
+    "PFC Kuban Krasnodar",
+    "PFC Kuban Krasnodar, FC Urozhay,Футбольный клуб Урожай,"
+  ],
+  [
+    "",
+    "Rodina-2 Moscow",
+    "Родина-2 Москва, Rodina Moscow II"
+  ],
+  [
+    "",
+    "Spartak Kostroma",
+    "Football Club Spartak Kostroma, ФК Спартак Кострома"
+  ],
+  [
+    "",
+    "Torpedo Miass",
+    "Торпедо Миасс"
+  ],
+  [
+    "",
+    "Veles Moscow",
+    "ФК Велес Москва"
+  ],
+  [
+    "",
+    "Volga Ulyanovsk",
+    "Во́лга Улья́новск"
+  ],
+  [
+    "",
+    "Volgar Astrakhan",
+    "Футбольный Клуб Волгарь"
+  ],
+  [
+    "",
+    "Avangard Kursk",
+    "FC Avangard Kursk"
+  ],
+  [
+    "",
+    "Dynamo Bryansk",
+    "футбольный клуб Динамо Брянск, Dinamo Bryansk"
+  ],
+  [
+    "",
+    "Dynamo Kirov",
+    "АНО «Футбольный клуб „Динамо“ город Киров», Динамо Киров"
+  ],
+  [
+    "",
+    "Dynamo Vladivostok",
+    "Динамо Владивосток"
+  ],
+  [
+    "",
+    "Dynamo-2 Moscow",
+    "Динамо-2 Москва"
+  ],
+  [
+    "",
+    "Forte Taganrog",
+    "Форте Таганрог"
+  ],
+  [
+    "",
+    "Irtysh Omsk",
+    "Иртыш Футбольный Клуб, Иртыш Омск"
+  ],
+  [
+    "",
+    "Kaluga",
+    "FC Kaluga, ФК Калуга"
+  ],
+  [
+    "",
+    "Khimik Dzerzhinsk",
+    "Химик Дзержинск"
+  ],
+  [
+    "",
+    "Krasnodar-2",
+    "FC Krasnodar-2, ФК Краснодар-2"
+  ],
+  [
+    "",
+    "Metallurg Lipetsk",
+    "Футбольный клуб Металлург Липецк, Фк Металлург Липецк"
+  ],
+  [
+    "",
+    "Murom",
+    "FC Murom, ФК Муром"
+  ],
+  [
+    "",
+    "Sibir Novosibirsk",
+    "ФК Сибирь Новосибирск, FC Sibir Novosibirsk"
+  ],
+  [
+    "",
+    "Tekstilshchik Ivanovo",
+    "ФК Текстильщик Иваново"
+  ]
+]

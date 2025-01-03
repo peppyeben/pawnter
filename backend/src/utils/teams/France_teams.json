@@ -1,0 +1,767 @@
+[
+  [
+    "",
+    "Angers",
+    "Angers SCO"
+  ],
+  [
+    "",
+    "Auxerre",
+    "AJ Auxerre, Association de la Jeunesse Auxerroise, AJA"
+  ],
+  [
+    "BRS",
+    "Brest",
+    "Stade Brestois 29"
+  ],
+  [
+    "HAC",
+    "Le Havre",
+    "Havre Athletic Club"
+  ],
+  [
+    "LNS",
+    "Lens",
+    "RC Lens"
+  ],
+  [
+    "LIL",
+    "Lille",
+    "Lille OSC"
+  ],
+  [
+    "LYO",
+    "Lyon",
+    "Olympique Lyonnais"
+  ],
+  [
+    "OLM",
+    "Marseille",
+    "Olympique de Marseille"
+  ],
+  [
+    "MON",
+    "Monaco",
+    "AS Monaco"
+  ],
+  [
+    "MON",
+    "Montpellier",
+    "Montpellier HSC"
+  ],
+  [
+    "NAN",
+    "Nantes",
+    "FC Nantes"
+  ],
+  [
+    "NIC",
+    "Nice",
+    "OGC Nice"
+  ],
+  [
+    "PSG",
+    "Paris SG",
+    "Paris Saint-Germain, PSG, Paris Saint Germain"
+  ],
+  [
+    "REN",
+    "Rennes",
+    "Stade Rennais"
+  ],
+  [
+    "",
+    "St Etienne",
+    "AS Saint-Étienne, Saint Etienne"
+  ],
+  [
+    "REI",
+    "Stade de Reims",
+    "Stade Reims"
+  ],
+  [
+    "STR",
+    "Strasbourg",
+    "Racing Club de Strasbourg Alsace"
+  ],
+  [
+    "TOU",
+    "Toulouse",
+    "Toulouse, TFC,Toulouse Football Club, Téfécé"
+  ],
+  [
+    "",
+    "Ajaccio",
+    "AC Ajaccio, Athletic Club Aiacciu"
+  ],
+  [
+    "",
+    "Amiens",
+    "Amiens Sporting Club"
+  ],
+  [
+    "",
+    "Annecy",
+    "Annecy Football Club, Annecy FC"
+  ],
+  [
+    "",
+    "Bastia",
+    "SC Bastia, Sporting Club di Bastia"
+  ],
+  [
+    "",
+    "Caen",
+    "SM Caen"
+  ],
+  [
+    "CLE",
+    "Clermont Foot",
+    "Clermont Foot Auvergne 63"
+  ],
+  [
+    "",
+    "Grenoble",
+    "Grenoble Foot 38"
+  ],
+  [
+    "",
+    "Guingamp",
+    "EA Guingamp"
+  ],
+  [
+    "",
+    "Laval",
+    "Stade Lavallois Mayenne Football Club"
+  ],
+  [
+    "LOR",
+    "Lorient",
+    "FC Lorient"
+  ],
+  [
+    "",
+    "Martigues",
+    "FC Martigues, Football Club de Martigues"
+  ],
+  [
+    "MTZ",
+    "Metz",
+    "FC Metz"
+  ],
+  [
+    "",
+    "Paris FC",
+    ""
+  ],
+  [
+    "",
+    "Pau FC",
+    "Pau Football Club"
+  ],
+  [
+    "",
+    "Red Star",
+    "RED Star FC 93"
+  ],
+  [
+    "",
+    "Rodez AF",
+    "Rodez Aveyron Football"
+  ],
+  [
+    "",
+    "Troyes",
+    "ESTAC Troyes, Espérance Sportive Troyes Aube Champagne"
+  ],
+  [
+    "",
+    "USL Dunkerque",
+    "Union Sportive du Littoral de Dunkerque, Dunkirk"
+  ],
+  [
+    "",
+    "Ajaccio",
+    "AC Ajaccio, Athletic Club Aiacciu"
+  ],
+  [
+    "",
+    "Alençon",
+    "US Alençon"
+  ],
+  [
+    "",
+    "Allobroges Asafia",
+    "FC Allobroges Asafia"
+  ],
+  [
+    "",
+    "Amiens",
+    "Amiens Sporting Club"
+  ],
+  [
+    "",
+    "Anduze",
+    "SC Anduze"
+  ],
+  [
+    "",
+    "Angers",
+    "Angers SCO"
+  ],
+  [
+    "",
+    "Angoulême",
+    "Angoulême Charente Football Club"
+  ],
+  [
+    "",
+    "Annecy",
+    "Annecy Football Club, Annecy FC"
+  ],
+  [
+    "",
+    "Arles",
+    "Arles-Avignon, AC Arlésien"
+  ],
+  [
+    "",
+    "Arras FA",
+    ""
+  ],
+  [
+    "",
+    "AS Beauvais Oise",
+    ""
+  ],
+  [
+    "",
+    "AS Dragon",
+    "Association Sportive Dragon"
+  ],
+  [
+    "",
+    "AS Montferrandaise",
+    "ASM Omnisports"
+  ],
+  [
+    "",
+    "AS Vitré",
+    "Amicale Sportive de Vitré"
+  ],
+  [
+    "",
+    "Association Still-Mutzig",
+    "AS Mutzig"
+  ],
+  [
+    "",
+    "Aubervilliers",
+    ""
+  ],
+  [
+    "",
+    "Auxerre",
+    "AJ Auxerre, Association de la Jeunesse Auxerroise, AJA"
+  ],
+  [
+    "",
+    "Avenir Mourenxois",
+    ""
+  ],
+  [
+    "",
+    "Aviron Bayonnais FC",
+    ""
+  ],
+  [
+    "",
+    "Bastia",
+    "SC Bastia, Sporting Club di Bastia"
+  ],
+  [
+    "",
+    "Beaumont Saint-Cyr",
+    "ES Beaumont Saint-Cyr"
+  ],
+  [
+    "",
+    "Biars Bretenoux",
+    "AF Biars Bretenoux"
+  ],
+  [
+    "",
+    "Biesheim",
+    ""
+  ],
+  [
+    "",
+    "Blénod",
+    "CS Blénod"
+  ],
+  [
+    "",
+    "Bolbec",
+    "US Bolbec"
+  ],
+  [
+    "",
+    "Bordeaux",
+    "Girondins de Bordeaux, FCGB"
+  ],
+  [
+    "",
+    "Boulay",
+    "CA Boulay"
+  ],
+  [
+    "",
+    "Boulogne",
+    "Union Sportive de Boulogne-sur-Mer Côte dOpale, US Boulogne-sur-Mer Côte d"
+  ],
+  [
+    "",
+    "Bourgoin-Jallieu",
+    ""
+  ],
+  [
+    "",
+    "Bressuire",
+    "FC Bressuire"
+  ],
+  [
+    "BRS",
+    "Brest",
+    "Stade Brestois 29"
+  ],
+  [
+    "",
+    "Brétigny",
+    "CS Brétigny"
+  ],
+  [
+    "",
+    "C-'Chartres",
+    "CChartres Football, FC Chartres. Chartres Horizon"
+  ],
+  [
+    "",
+    "Caen",
+    "SM Caen"
+  ],
+  [
+    "",
+    "Calais Beau Marais",
+    ""
+  ],
+  [
+    "",
+    "Canet Roussillon",
+    "Canet Roussillon Football Club, Canet RFC"
+  ],
+  [
+    "",
+    "Cannes",
+    "Association Sportive de Cannes Football, AS Cannes"
+  ],
+  [
+    "",
+    "Cannet-Rocheville",
+    "ES Cannet-Rocheville"
+  ],
+  [
+    "",
+    "Carnoux",
+    ""
+  ],
+  [
+    "",
+    "Cazaux Olympique",
+    ""
+  ],
+  [
+    "",
+    "Chambéry SF",
+    "Chambéry Savoie Football, CSF"
+  ],
+  [
+    "",
+    "Chaumont",
+    ""
+  ],
+  [
+    "CLE",
+    "Clermont Foot",
+    "Clermont Foot Auvergne 63"
+  ],
+  [
+    "",
+    "Cluses-Scionzier FC",
+    ""
+  ],
+  [
+    "",
+    "CO Briochin",
+    "COBSP Football"
+  ],
+  [
+    "",
+    "Comtal",
+    "FC Comtal"
+  ],
+  [
+    "",
+    "Concarneau",
+    ""
+  ],
+  [
+    "",
+    "Couzeix-Chaptelat",
+    "USE Couzeix-Chaptelat"
+  ],
+  [
+    "",
+    "Crépy-en-Valois",
+    ""
+  ],
+  [
+    "",
+    "Dijon",
+    "Dijon FCO"
+  ],
+  [
+    "",
+    "Aubagne FC",
+    ""
+  ],
+  [
+    "",
+    "Boulogne",
+    "Union Sportive de Boulogne-sur-Mer Côte dOpale, US Boulogne-sur-Mer Côte d"
+  ],
+  [
+    "",
+    "Bourg-Peronnas",
+    "Bourg-en-bresse 01, Football Bourg-en-Bresse Péronnas 01"
+  ],
+  [
+    "",
+    "Chateauroux",
+    "La Berrichonne "
+  ],
+  [
+    "",
+    "Concarneau",
+    ""
+  ],
+  [
+    "",
+    "Dijon",
+    "Dijon FCO"
+  ],
+  [
+    "",
+    "FC Rouen",
+    ""
+  ],
+  [
+    "",
+    "FC Versailles 78",
+    "Football Club de Versailles 78, FCV"
+  ],
+  [
+    "",
+    "FC Villefranche",
+    "Football Club Villefranche-Beaujolais"
+  ],
+  [
+    "",
+    "Le Mans",
+    "Le Mans Football Club"
+  ],
+  [
+    "",
+    "Nancy",
+    "Association Sportive Nancy Lorraine"
+  ],
+  [
+    "",
+    "Nimes",
+    "Nîmes Olympique"
+  ],
+  [
+    "",
+    "Orleans",
+    "US Orléans"
+  ],
+  [
+    "",
+    "Paris 13 Atletico",
+    "Football Club Gohttps://www.facebook.com/Paris13Atletico/belins, FC Gobelins"
+  ],
+  [
+    "",
+    "Quevilly",
+    "US Quevilly-Rouen, US Quevilly-Rouen Métropole, QRM"
+  ],
+  [
+    "",
+    "Sochaux",
+    "Football Club Sochaux-Montbéliard"
+  ],
+  [
+    "",
+    "Valenciennes",
+    "Valenciennes Football Club"
+  ],
+  [
+    "MON",
+    "Monaco",
+    "AS Monaco"
+  ],
+  [
+    "PSG",
+    "Paris SG",
+    "Paris Saint-Germain, PSG, Paris Saint Germain"
+  ],
+  [
+    "",
+    "Andrézieux-Bouthéon FC",
+    ""
+  ],
+  [
+    "",
+    "Angoulême",
+    "Angoulême Charente Football Club"
+  ],
+  [
+    "",
+    "AS Saint-Priest",
+    ""
+  ],
+  [
+    "",
+    "Bergerac Périgord",
+    "Bergerac Périgord Football Club"
+  ],
+  [
+    "",
+    "Cannes",
+    "Association Sportive de Cannes Football, AS Cannes"
+  ],
+  [
+    "",
+    "Fréjus Saint-Raphaël",
+    "Étoile Football Club Fréjus Saint-Raphaël, Étoile Football Club Fréjus Saint Raphaël, Étoile Football Club Fréjus St Raphaël, ÉFC Fréjus Saint-Raphaël"
+  ],
+  [
+    "",
+    "Genêts Anglet",
+    ""
+  ],
+  [
+    "",
+    "GOAL FC",
+    "Grand Ouest Association Lyonnaise Football Club, Chasselay MDA, Monts d"
+  ],
+  [
+    "",
+    "Grasse",
+    "Racing Club de Grasse"
+  ],
+  [
+    "",
+    "Hyères",
+    "Hyères Football Club. HFC"
+  ],
+  [
+    "",
+    "Istres",
+    "Football Club Istres Ouest Provence"
+  ],
+  [
+    "",
+    "Jura Sud Foot",
+    "JSF"
+  ],
+  [
+    "",
+    "Le Puy Foot 43",
+    "Le Puy-en-Velay Football 43 Auvergne"
+  ],
+  [
+    "",
+    "Marignane Gignac",
+    "Marignane Gignac Football Club, MGFC"
+  ],
+  [
+    "",
+    "Rumilly-Vallières",
+    "Groupement Football Albanais Rumilly-Vallières, GFA Rumilly-Vallières, GF Albanais"
+  ],
+  [
+    "",
+    "Toulon",
+    ""
+  ],
+  [
+    "",
+    "Blois",
+    "Blois Football 41, Association amicale de la jeunesse blésoise, AAJB, AAJ Blois"
+  ],
+  [
+    "",
+    "Bordeaux",
+    "Girondins de Bordeaux, FCGB"
+  ],
+  [
+    "",
+    "Bourges Foot 18",
+    "Bourges Foot, Bourges 18"
+  ],
+  [
+    "",
+    "Dinan-Léhon FC",
+    ""
+  ],
+  [
+    "",
+    "La Roche VF",
+    "La Roche Vendée Football"
+  ],
+  [
+    "",
+    "Les Herbiers VF",
+    ""
+  ],
+  [
+    "",
+    "Olympique Saumur",
+    "L"
+  ],
+  [
+    "",
+    "Saint-Colomban Sportive Locminé",
+    ""
+  ],
+  [
+    "",
+    "Saint-Pryvé",
+    "Saint-Pryvé Saint-Hilaire Football Club, SPSHFC"
+  ],
+  [
+    "",
+    "Stade Briochin",
+    ""
+  ],
+  [
+    "",
+    "Stade Poitevin FC",
+    ""
+  ],
+  [
+    "",
+    "US Avranches",
+    ""
+  ],
+  [
+    "",
+    "US Granville",
+    ""
+  ],
+  [
+    "",
+    "US Saint-Malo",
+    ""
+  ],
+  [
+    "VPF",
+    "Vendée Poiré-sur-Vie",
+    "Vendée Poiré-sur-Vie Football"
+  ],
+  [
+    "",
+    "Voltigeurs de Châteaubriant",
+    "Voltigeurs de Châteaubriant"
+  ],
+  [
+    "",
+    "AS Beauvais Oise",
+    ""
+  ],
+  [
+    "",
+    "AS Furiani-Agliani",
+    "Association Sportive Furiani-Agliani, AS Furiani-Agliani, ASFA"
+  ],
+  [
+    "",
+    "Aubervilliers",
+    ""
+  ],
+  [
+    "",
+    "Balagne",
+    ""
+  ],
+  [
+    "",
+    "Biesheim",
+    ""
+  ],
+  [
+    "",
+    "Creteil",
+    "USCL, Union Sportive Créteil-Lusitanos, US Créteil-Lusitanos"
+  ],
+  [
+    "",
+    "Entente Feignies Aulnoye FC",
+    "Feignies-Aulnoye"
+  ],
+  [
+    "",
+    "Epinal",
+    "SAS Épinal"
+  ],
+  [
+    "",
+    "FC 93 B-B-G",
+    ""
+  ],
+  [
+    "",
+    "FC Chambly",
+    "Chambly Thelle FC, Chambly"
+  ],
+  [
+    "",
+    "FC Fleury 91",
+    ""
+  ],
+  [
+    "",
+    "FCSR Haguenau",
+    ""
+  ],
+  [
+    "",
+    "Thionville Lusitanos",
+    "Union sportive Thionville Lusitanos, US Thionville Lusitanos"
+  ],
+  [
+    "",
+    "US Chantilly",
+    ""
+  ],
+  [
+    "",
+    "Villers-Houlgate",
+    "Association sportive Villers-Houlgate-Côte Fleurie"
+  ],
+  [
+    "",
+    "Wasquehal",
+    "Wasquehal Football"
+  ]
+]
