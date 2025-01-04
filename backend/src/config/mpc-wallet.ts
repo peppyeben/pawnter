@@ -29,5 +29,5 @@ export const getUserMPCWalletAddress = async (user_seed: string) => {
 
     const userWalletAddress = await walletFromSeed.getDefaultAddress();
 
-    return userWalletAddress;
+    return { userWalletAddress: userWalletAddress["id"] };
 };
