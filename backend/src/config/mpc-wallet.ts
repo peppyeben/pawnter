@@ -8,20 +8,26 @@ let coinbase = Coinbase.configureFromJson({
     filePath,
 });
 
-async function createMPCWallet() {
+export const createMPCWallet = async () => {
     // Create a Wallet
     let wallet = await Wallet.create();
-    console.log(`Wallet successfully created: `, wallet.toString());
+
+    return {
+        walletSeed: wallet["seed"] as string,
+    };
 
     // wallet.createPayloadSignature
 
     // Wallets come with a single default Address, accessible via getDefaultAddress:
-    let address = await wallet.getDefaultAddress();
-    let canSign = await wallet.canSign();
-    console.log(`Default address for the wallet: `, address.toString());
-    console.log(`Can sign: `, canSign);
-}
+    // let address = await wallet.getDefaultAddress();
+};
 
-createMPCWallet()
-    .then((r) => console.log("done"))
-    .catch((e) => console.error(e));
+export const getUserMPCWalletAddress = async (user_seed: string) => {
+    const walletFromSeed = await Wallet.createWithSeed({
+        seed: user_seed,
+    });
+
+    const userWalletAddress = await walletFromSeed.getDefaultAddress();
+
+    return userWalletAddress;
+};
