@@ -139,7 +139,7 @@ const asideLinks: AsideLink[] = [
     },
 ];
 
-type AsideLink {
+interface AsideLink {
     title: string;
     url: string;
     icon: any;
