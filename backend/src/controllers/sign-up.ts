@@ -1,8 +1,8 @@
 import jwt from "jsonwebtoken";
-import { asyncWrapper } from "../middleware/async";
 import { UserPawnterAccount } from "../model/user-pawnter-account";
 import * as dotenv from "dotenv";
 import { createMPCWallet } from "../config/mpc-wallet";
+import { asyncWrapper } from "../middleware/async";
 
 dotenv.config();
 
