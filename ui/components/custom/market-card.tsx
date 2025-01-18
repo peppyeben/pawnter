@@ -7,14 +7,26 @@ import {
     SelectTrigger,
     SelectValue,
 } from "@/components/ui/select";
+import { Events } from "@/data/events";
+import { FormatPrice } from "@/lib/format-price";
 
-export default function MarketCard() {
+export default function MarketCard({
+    category,
+    time_left,
+    trend,
+    image,
+    name,
+    caption,
+    total_pool,
+    outcomes,
+    date_created,
+}: Events) {
     return (
         <div className="flex flex-col w-[350px] bg-background border border-stroke p-4 rounded-[20px] gap-6">
             <div className="flex flex-col gap-5">
                 <div className="flex w-full justify-between">
                     <p className="text-sm leading-[18px] font-medium underline">
-                        Crypto
+                        {category}
                     </p>
 
                     <div className="flex items-center gap-4">
@@ -22,7 +34,7 @@ export default function MarketCard() {
                             <Image src={``} alt="Time" width={16} height={16} />
 
                             <p className="text-xs text-primary-foreground">
-                                2d 8h left
+                                {time_left}
                             </p>
                         </div>
 
@@ -31,7 +43,7 @@ export default function MarketCard() {
                 </div>
 
                 <Image
-                    src={``}
+                    src={image}
                     alt="Preview"
                     width={318}
                     height={80}
@@ -40,19 +52,21 @@ export default function MarketCard() {
 
                 <div className="flex flex-col gap-3">
                     <div className="flex flex-col gap-2">
-                        <p className="font-medium text-primary-foreground"></p>
-                        <p className="text-xs text-foreground"></p>
+                        <p className="font-medium text-primary-foreground">
+                            {name}
+                        </p>
+                        <p className="text-xs text-foreground">{caption}</p>
                     </div>
 
                     <div className="flex w-full justify-between">
-                        <Prediction type="pool" price={512340} />
+                        <Prediction type="pool" price={total_pool} />
                         <Prediction type="outcome" outcomes={outcomes} />
                     </div>
                 </div>
             </div>
 
             <div className="flex flex-col items-center gap-2">
-                <SelectOutcome />
+                <SelectOutcome outcomes={outcomes} />
 
                 <Button
                     variant={`black`}
@@ -61,7 +75,7 @@ export default function MarketCard() {
                     Place Bet
                 </Button>
 
-                <p className="text-xs text-foreground"></p>
+                <p className="text-xs text-foreground">{date_created}</p>
             </div>
         </div>
     );
@@ -76,7 +90,7 @@ function Prediction({ type, price, outcomes }: Prediction) {
 
             {price && (
                 <p className="text-sm font-bold text-primary-foreground">
-                    {price}
+                    {FormatPrice(price)}
                 </p>
             )}
 
@@ -85,7 +99,7 @@ function Prediction({ type, price, outcomes }: Prediction) {
                     {outcomes.map((item: string) => (
                         <Button
                             variant={`outline`}
-                            className="py-0.5 px-3 border-stroke rounded-[20px]"
+                            className="py-0.5 px-3 border-stroke rounded-[20px] text-xs h-fit"
                         >
                             {item}
                         </Button>
@@ -96,10 +110,10 @@ function Prediction({ type, price, outcomes }: Prediction) {
     );
 }
 
-function SelectOutcome() {
+function SelectOutcome({ outcomes }: { outcomes: string[] }) {
     return (
         <Select>
-            <SelectTrigger className="w-full h-10 text-foreground rounded-xl px-6 py-2">
+            <SelectTrigger className="w-full h-10 text-foreground rounded-xl px-6 py-2 bg-grey-100">
                 <SelectValue
                     placeholder="Select Outcome"
                     className="text-sm font-bold"
@@ -121,5 +135,3 @@ interface Prediction {
     price?: number;
     outcomes?: string[];
 }
-
-const outcomes: string[] = ["yes", "no"];

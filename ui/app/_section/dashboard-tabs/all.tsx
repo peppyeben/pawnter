@@ -1,61 +1,107 @@
-import SearchInput from "@/components/custom/search-input";
-import {
-    Select,
-    SelectContent,
-    SelectItem,
-    SelectTrigger,
-    SelectValue,
-} from "@/components/ui/select";
-import MarketsTabs from "../market-tabs";
+import { Button } from "@/components/ui/button";
+import Image from "next/image";
+import PredictionMarketContainer from "@/components/custom/prediction-market-container";
+import PopularEvents from "@/components/custom/popular-events";
 
-export default function AllTab() {
+export default function AllTab({
+    page,
+    children,
+}: {
+    page: "dashboard" | "markets";
+    children?: React.ReactNode;
+}) {
     return (
         <div className="flex flex-col gap-6">
-            <div className="flex flex-col gap-2">
-                <p className="text-2xl font-semibold text-primary-foreground">
-                    Prediction Markets
-                </p>
+            <div
+                className={`w-full ${
+                    page === "dashboard" ? "flex" : "hidden"
+                } gap-4`}
+            >
+                {popular_bets.map((item: PopularBets, index: number) => (
+                    <PopularBetsContainer key={index}>
+                        <PopularBets
+                            name={item.name}
+                            caption={item.caption}
+                            image={item.image}
+                        />
+                    </PopularBetsContainer>
+                ))}
 
-                <div className="flex w-full gap-3 items-center">
-                    <SearchInput className="flex flex-row-reverse gap-2 py-2 px-3 bg-grey-50 h-9 w-[650px] rounded-full" />
-
-                    <SortSelect />
-                </div>
+                <PopularBetsContainer>
+                    <div className="flex flex-col justify-between gap-2 max-w-[158px]">
+                        <p className="text-lg font-medium">
+                            Fund your wallet to start betting today.
+                        </p>
+                        <Button
+                            variant={`black`}
+                            className="w-fit rounded-[20px] text-xs font-semibold"
+                        >
+                            Connect Wallet
+                        </Button>
+                    </div>
+                </PopularBetsContainer>
             </div>
 
-            <MarketsTabs />
+            <PredictionMarketContainer>
+                {page === "dashboard" ? <PopularEvents /> : children}
+            </PredictionMarketContainer>
         </div>
     );
 }
 
-function SortSelect() {
+function PopularBetsContainer({ children }: { children: React.ReactNode }) {
     return (
-        <Select>
-            <SelectTrigger className="w-[180px] py-1.5 px-3 bg-grey-50 rounded-[20px] text-xs text-primary-foreground data-[state=closed]:border-none data-[state=open]:bg-white data-[state=open]:rounded-b-none focus-visible:ring-0 transition-colors duration-300">
-                <SelectValue placeholder="Sort" />
-            </SelectTrigger>
-            <SelectContent className="flex flex-col gap-3 -mt-1 rounded-t-none w-[180px] rounded-b-[20px]">
-                {selctItems.map((item: SelectProps) => (
-                    <SelectItem
-                        key={item.name}
-                        value={item.name.toLocaleLowerCase()}
-                        className="flex items-center gap-2 py-0.5 text-xs text-primary-foreground"
-                    >
-                        {item.name}
-                    </SelectItem>
-                ))}
-            </SelectContent>
-        </Select>
+        <div className="w-[350px] py-2 px-3 rounded-t-2xl rounded-b-[20px] bg-grey-50 flex justify-between">
+            {children}
+        </div>
     );
 }
-const selctItems: SelectProps[] = [
-    { name: "Trending", icon: "" },
-    { name: "Volume", icon: "" },
-    { name: "Liquidity", icon: "" },
-    { name: "Newest", icon: "" },
+
+function PopularBets({ name, caption, image }: PopularBets) {
+    return (
+        <>
+            <div className="flex flex-col h-full justify-between max-w-[158px]">
+                <div className="flex flex-col gap-2">
+                    <p className="text-sm font-medium text-primary-foreground">
+                        {name}
+                    </p>
+                    <p className="text-xs text-foreground">{caption}</p>
+                </div>
+
+                <Button
+                    variant={`outline`}
+                    className="rounded-[20px] w-fit text-xs text-primary-foreground"
+                >
+                    Place Bet
+                </Button>
+            </div>
+
+            <Image
+                src={image}
+                alt={name}
+                width={144}
+                height={120}
+                className="rounded-[8px]"
+            />
+        </>
+    );
+}
+
+const popular_bets: PopularBets[] = [
+    {
+        name: "$BTC to the moon",
+        caption: "Will Bitcoin hit $100k in 2024?",
+        image: "",
+    },
+    {
+        name: "Man city vs Liverpool",
+        caption: "Who triumphs?",
+        image: "",
+    },
 ];
 
-interface SelectProps {
+interface PopularBets {
     name: string;
-    icon: string;
+    caption: string;
+    image: string;
 }

@@ -52,6 +52,15 @@ export default {
                 },
                 grey: {
                     "50": "#FAFAFA",
+                    "100": "#EFEFEF",
+                },
+                success: {
+                    "600": "#308942",
+                    "100": "#E2F6E6",
+                },
+                information: {
+                    "600": "#176DB2",
+                    "100": "#E3EEFB",
                 },
                 sidebar: {
                     DEFAULT: "hsl(var(--sidebar-background))",

@@ -1,4 +1,5 @@
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import ActiveBetsTab from "./active-bets";
 
 export default function MarketsTabs() {
     return (
@@ -14,7 +15,9 @@ export default function MarketsTabs() {
                     </TabsTrigger>
                 ))}
             </TabsList>
-            <TabsContent value="all">Change your password here.</TabsContent>
+            <TabsContent value="active-bets">
+                <ActiveBetsTab />
+            </TabsContent>
             <TabsContent value="password">
                 Change your password here.
             </TabsContent>
