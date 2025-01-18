@@ -1,6 +1,13 @@
 "use client";
 
-import { Calendar, Home, Inbox, Search, Settings } from "lucide-react";
+import {
+    Calendar,
+    Home,
+    Inbox,
+    LucideIcon,
+    Search,
+    Settings,
+} from "lucide-react";
 import Link from "next/link";
 import {
     Sidebar,
@@ -142,5 +149,5 @@ const asideLinks: AsideLink[] = [
 interface AsideLink {
     title: string;
     url: string;
-    icon: any;
+    icon: LucideIcon;
 }

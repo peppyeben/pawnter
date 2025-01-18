@@ -53,7 +53,7 @@ export default function MarketCard({
                 <div className="flex flex-col gap-3">
                     <div className="flex flex-col gap-2">
                         <p className="font-medium text-primary-foreground">
-                            {name}
+                            {name + trend}
                         </p>
                         <p className="text-xs text-foreground">{caption}</p>
                     </div>

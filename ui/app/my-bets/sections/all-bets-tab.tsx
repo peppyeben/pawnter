@@ -8,6 +8,7 @@ export default function AllBetsTab() {
         <div className="w-full flex flex-col gap-4">
             {my_bets.map((item: MyBets) => (
                 <BetCard
+                    key={item.name}
                     name={item.name}
                     status={item.status}
                     outcome={item.outcome}
